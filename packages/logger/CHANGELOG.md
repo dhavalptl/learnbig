@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.1](https://github.com/dhavalptl/learnbig/compare/@learnbig/logger@1.1.0...@learnbig/logger@1.1.1) (2020-04-19)
+
+
+### Bug Fixes
+
+* bug fix ([4285a04](https://github.com/dhavalptl/learnbig/commit/4285a04dc2b3566bc71d7c40fc104ee7ffc8b0de))
+
+
+
+
+
 # [1.1.0](https://github.com/dhavalptl/learnbig/compare/@learnbig/logger@1.0.1...@learnbig/logger@1.1.0) (2020-04-19)
 
 
