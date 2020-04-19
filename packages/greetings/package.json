@@ -4,9 +4,13 @@
   "description": "Greetings library",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Greeting Test\""
+    "test": "echo \"Greeting Test\"",
+    "start": "node index"
   },
   "keywords": [],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@learnbig/logger": "^1.1.0"
+  }
 }

@@ -1,3 +1,4 @@
+const logger = require("@learnbig/logger");
 module.exports = (name) => {
-    console.log(`Hello ${name} !!`);
+    logger(`Hello ${name} !!`);
 }
