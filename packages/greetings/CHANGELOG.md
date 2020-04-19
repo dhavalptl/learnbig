@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.1](https://github.com/dhavalptl/learnbig/compare/@learnbig/greetings@1.1.0...@learnbig/greetings@1.1.1) (2020-04-19)
+
+
+### Bug Fixes
+
+* added logger into lib ([1482e08](https://github.com/dhavalptl/learnbig/commit/1482e086090fd61639cbecf630907884625e3ca5))
+
+
+
+
+
 # 1.1.0 (2020-04-19)
 
 
