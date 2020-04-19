@@ -1,0 +1,12 @@
+{
+  "name": "@learnbig/logger",
+  "version": "1.0.0",
+  "description": "Logger library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Logger Test\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}

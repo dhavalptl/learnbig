@@ -1,0 +1,12 @@
+{
+  "name": "@learnbig/greetings",
+  "version": "1.0.0",
+  "description": "Greetings library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Greeting Test\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
