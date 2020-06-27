@@ -5,7 +5,8 @@
     "packages/*"
   ],
   "scripts": {
-    "test": "lerna run test --stream --parallel"
+    "test": "lerna run test --stream --parallel",
+    "server": "lerna run server --stream"
   },
   "devDependencies": {
     "cz-conventional-changelog": "^3.1.0",

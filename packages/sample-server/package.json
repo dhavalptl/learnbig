@@ -1,0 +1,15 @@
+{
+    "name": "@learnbig/sample-server",
+    "version": "1.0.0",
+    "description": "Sample Server",
+    "main": "server.js",
+    "scripts": {
+        "server": "node server.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
