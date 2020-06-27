@@ -1,6 +1,6 @@
 {
   "name": "@dhavalptl/sample-logger",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "Logger library",
   "main": "index.js",
   "scripts": {

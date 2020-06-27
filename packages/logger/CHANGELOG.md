@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.6](https://github.com/dhavalptl/learnbig/compare/@dhavalptl/sample-logger@1.2.5...@dhavalptl/sample-logger@1.2.6) (2020-06-27)
+
+
+### Bug Fixes
+
+* 🐛 fix ([0d5ea68](https://github.com/dhavalptl/learnbig/commit/0d5ea680ebd0c7c4236e87493ea85b4ec257bbf6))
+
+
+
+
+
 ## [1.2.5](https://github.com/dhavalptl/learnbig/compare/@dhavalptl/sample-logger@1.2.4...@dhavalptl/sample-logger@1.2.5) (2020-06-27)
 
 **Note:** Version bump only for package @dhavalptl/sample-logger

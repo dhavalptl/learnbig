@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.13](https://github.com/dhavalptl/learnbig/compare/@dhavalptl/sample-server@1.0.12...@dhavalptl/sample-server@1.0.13) (2020-06-27)
+
+
+### Bug Fixes
+
+* 🐛 fix ([0d5ea68](https://github.com/dhavalptl/learnbig/commit/0d5ea680ebd0c7c4236e87493ea85b4ec257bbf6))
+
+
+
+
+
 ## [1.0.12](https://github.com/dhavalptl/learnbig/compare/@dhavalptl/sample-server@1.0.11...@dhavalptl/sample-server@1.0.12) (2020-06-27)
 
 **Note:** Version bump only for package @dhavalptl/sample-server

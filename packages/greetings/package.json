@@ -1,6 +1,6 @@
 {
   "name": "@dhavalptl/sample-greetings",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "Greetings library",
   "main": "index.js",
   "scripts": {
