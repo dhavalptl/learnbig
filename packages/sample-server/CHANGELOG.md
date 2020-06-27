@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.8](https://github.com/dhavalptl/learnbig/compare/@dhavalptl/sample-server@1.0.7...@dhavalptl/sample-server@1.0.8) (2020-06-27)
+
+
+### Bug Fixes
+
+* 🐛 dev depandency chnage and registory change ([515a8be](https://github.com/dhavalptl/learnbig/commit/515a8be5965011d12d22a6b54d222b372dca9d32))
+
+
+
+
+
+
 ## 1.0.7 (2020-06-27)
 
 
