@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.4](https://github.com/dhavalptl/learnbig/compare/@dhavalptl/sample-greetings@1.2.3...@dhavalptl/sample-greetings@1.2.4) (2020-06-27)
+
+**Note:** Version bump only for package @dhavalptl/sample-greetings
+
+
+
+
+
 ## [1.2.3](https://github.com/dhavalptl/learnbig/compare/@dhavalptl/sample-greetings@1.2.2...@dhavalptl/sample-greetings@1.2.3) (2020-06-27)
 
 **Note:** Version bump only for package @dhavalptl/sample-greetings

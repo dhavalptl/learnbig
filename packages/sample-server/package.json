@@ -1,6 +1,6 @@
 {
     "name": "@dhavalptl/sample-server",
-    "version": "1.0.10",
+    "version": "1.0.11",
     "description": "Sample Server",
     "main": "server.js",
     "scripts": {
