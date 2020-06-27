@@ -6,7 +6,8 @@
   ],
   "scripts": {
     "test": "lerna run test --stream --parallel",
-    "server": "lerna run server --stream"
+    "server": "lerna run server --stream",
+    "commit": "git-cz"
   },
   "devDependencies": {
     "cz-conventional-changelog": "^3.1.0",
