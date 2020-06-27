@@ -1,6 +1,6 @@
 {
     "name": "@dhavalptl/sample-server",
-    "version": "1.0.9",
+    "version": "1.0.10",
     "description": "Sample Server",
     "main": "server.js",
     "scripts": {
@@ -15,5 +15,5 @@
     "publishConfig": {
         "registry": "https://npm.pkg.github.com/"
     },
-    "gitHead": "f3342d8495c68121d08c4adab270df3681b0ffef"
+    "gitHead": "8893e380c72b68163efb985f56ce2dab6d15df0d"
 }

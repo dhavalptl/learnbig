@@ -1,6 +1,6 @@
 {
   "name": "@dhavalptl/sample-logger",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Logger library",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,5 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "gitHead": "f3342d8495c68121d08c4adab270df3681b0ffef"
+  "gitHead": "8893e380c72b68163efb985f56ce2dab6d15df0d"
 }
