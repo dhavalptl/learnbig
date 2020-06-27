@@ -11,7 +11,8 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@learnbig/logger": "^1.1.6"
+    "@dhavalptl/logger": "^1.1.6"
   },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "gitHead": "f3342d8495c68121d08c4adab270df3681b0ffef"
 }
