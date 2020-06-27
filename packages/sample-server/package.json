@@ -1,6 +1,6 @@
 {
     "name": "@learnbig/sample-server",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Sample Server",
     "main": "server.js",
     "scripts": {
