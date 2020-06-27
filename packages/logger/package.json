@@ -1,5 +1,5 @@
 {
-  "name": "@learnbig/logger",
+  "name": "@dhavalptl/sample-logger",
   "version": "1.1.6",
   "description": "Logger library",
   "main": "index.js",
@@ -9,5 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "gitHead": "762b24698f7b8a3f212dc1178e2bb78554ea42cc"
+  "gitHead": "f3342d8495c68121d08c4adab270df3681b0ffef"
 }
