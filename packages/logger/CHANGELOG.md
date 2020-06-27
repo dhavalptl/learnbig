@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.2.0 (2020-06-27)
+
+
+### Bug Fixes
+
+* **package name:** package name change ([7e9996e](https://github.com/dhavalptl/learnbig/commit/7e9996e8eb9097c550ed0bf8ef2264f48bcb94a7))
+* bug fix ([4285a04](https://github.com/dhavalptl/learnbig/commit/4285a04dc2b3566bc71d7c40fc104ee7ffc8b0de))
+
+
+### Features
+
+* 🎸 Added logger function ([d61f070](https://github.com/dhavalptl/learnbig/commit/d61f070b48ab8337be03fd81e000b54a22c8c685))
+
+
+
+
+
 ## [1.1.6](https://github.com/dhavalptl/learnbig/compare/@learnbig/logger@1.1.5...@learnbig/logger@1.1.6) (2020-06-27)
 
 **Note:** Version bump only for package @learnbig/logger
