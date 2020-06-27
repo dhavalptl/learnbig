@@ -1,6 +1,6 @@
 {
   "name": "@learnbig/greetings",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "description": "Greetings library",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@learnbig/logger": "^1.1.5"
+    "@learnbig/logger": "^1.1.6"
   },
   "gitHead": "762b24698f7b8a3f212dc1178e2bb78554ea42cc"
 }
