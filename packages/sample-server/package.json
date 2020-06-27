@@ -1,6 +1,6 @@
 {
     "name": "sample-server",
-    "version": "1.0.14",
+    "version": "1.0.15",
     "description": "Sample Server",
     "main": "server.js",
     "scripts": {
@@ -15,5 +15,5 @@
     "publishConfig": {
         "registry": "https://npm.pkg.github.com/"
     },
-    "gitHead": "9769b8e156c4a2adacc8c141bf4a596ed465614b"
+    "gitHead": "2b3fe3636ec54b02df3098347a2b29f1cc924a79"
 }
